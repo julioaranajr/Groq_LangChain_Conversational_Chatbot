@@ -1,4 +1,4 @@
 groq
-langchain==0.1.16
+langchain==0.3.0
 langchain-core
 langchain-groq
